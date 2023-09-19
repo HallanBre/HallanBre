@@ -3,7 +3,7 @@
   <img src = "https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif"/> 
 </div>
 <h1 align="middle"> Sobre Mim!🧑🏻‍💻</h1>
-<h4> Olá me chamo Hallan, sou apaixonado por tecnologia e video-game :P, gosto muito de estar sempre estudando coisas, atualmente estou estudando programação, pois codando consigo usar minha criatividade para solucionar problemas e criar coisas divertidas, me siga para acompanhar meu processo de apredizagem, ou me chame em para trocarmos uma ideia  :) </h4>
+<h4> Olá me chamo Hallan, sou apaixonado por tecnologia e video-game :P, gosto muito de estar sempre estudando coisas, atualmente estou estudando programação, pois codando consigo usar minha criatividade para solucionar problemas e criar coisas divertidas, me siga para acompanhar meu processo de apredizagem, ou me chame para trocarmos uma ideia  :) </h4>
 <h1>Git Status </h1>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HallanBre&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" /> 
