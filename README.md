@@ -22,5 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" heigh = 50px width =50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" heigh = 50px width =50px />  
 </div>
+
 ![Snake animation](https://github.com/HallanBre/HallanBre/blob/output/github-contribution-grid-snake.svg)
           
