@@ -30,7 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" heigh = 50px width =50px />  
 </div>
 
-![Snake animation](https://github.com/HallanBre/HallanBre/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HallanBre/HallanBre/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HallanBre/HallanBre/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HallanBre/HallanBre/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 <h3 align="middle">Até a Proxima!!! 👋</h3>
 <div align = "middle"> 
