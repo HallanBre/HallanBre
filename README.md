@@ -23,7 +23,6 @@
 <h1 align="middle"> Linguagens e Ferramentas 🔧</h1>
 <div align="middle"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" heigh = 50px width =50px />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" heigh = 50px width =50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigh = 50px width =50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  heigh = 50px width =50px  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" heigh = 50px width =50px />
