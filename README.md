@@ -1,6 +1,6 @@
 <h1 align="middle">🚀 Olá Mundo!! 🌎</h1> 
 <div align="middle"> 
-  <img src = "https://giphy.com/gifs/hello-hi-spiderman-QYkX9IMHthYn0Y3pcG"
+  <img src = "https://giphy.com/embed/QYkX9IMHthYn0Y3pcG"
 </div>
 <h1 align="middle"> Sobre Mim!🧑🏻‍💻</h1>
 <h4> Olá me chamo Hallan, sou apaixonado por tecnologia e video-game :P, gosto muito de estar sempre estudando coisas, atualmente estou estudando programação, pois codando consigo usar minha criatividade para solucionar problemas e criar coisas divertidas, me siga para acompanhar meu processo de apredizagem, ou me chame para trocarmos uma ideia  :) </h4>
